@@ -48,6 +48,6 @@ When the user sends a voice message:
 - Orpheus Text-to-Speech
 - python-telegram-bot
 
-## Project Purpose
+## Project Goal
 
-The purpose of this project is to develop an AI-powered Telegram chatbot that uses Groq AI to support natural text-to-text and voice-to-voice conversations through an accessible messaging platform.
+The Goal of this project is to develop an AI-powered Telegram chatbot that uses Groq AI to support natural text-to-text and voice-to-voice conversations through an accessible messaging platform.
